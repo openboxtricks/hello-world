@@ -11,4 +11,4 @@ Text [[www.bbc.co.uk]]
 
 |does|this|work|
 |-----|---|---|
-|yes|it|does||
+|yes|it|does|
