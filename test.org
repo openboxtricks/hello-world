@@ -10,5 +10,4 @@ This is some text
 Text [[www.bbc.co.uk]]
 
 |does|this|work|
-|-----|---|---|
 |yes|it|does|
